@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::string str = "dir";
+    std::string str = "echo test";
     std::pair<int, std::string> test = OS::run_command(str);
 
     std::cout << "Num: " << test.first << std::endl;
