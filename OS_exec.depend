@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1733454742 source:c:\users\bland\desktop\coding\os_exec\main.cpp
+	"os.hpp"
+	<iostream>
+	<stdio.h>
+
+1733455061 c:\users\bland\desktop\coding\os_exec\os.hpp
+	<iostream>
+	<vector>
+	<string>
+	<cstring>
+	<sys/wait.h>
+	<string.h>
+	<unistd.h>
+	<sys/wait.h>
+	<Windows.h>
+
+1733455391 source:c:\users\bland\desktop\coding\os_exec\os.cpp
+	"os.hpp"
+
